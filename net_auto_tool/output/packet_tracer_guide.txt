@@ -1,0 +1,25 @@
+Packet Tracer Recreation Guide
+========================================
+
+Based on actual network configuration analysis
+
+DEVICE INVENTORY:
+--------------------
+
+Switches:
+  - Switch1
+  - R1
+  - R2
+  - R3
+
+CONNECTIONS:
+--------------------
+  Switch1 <——> R3 (generic connection)
+  R1 <——> R3 (generic connection)
+  R1 <——> R2 (generic connection)
+  R2 <——> R3 (generic connection)
+
+RECOMMENDED LAYOUT:
+--------------------
+Place routers at the top, switches in the middle, end devices at bottom
+Use the interface information above for accurate cabling

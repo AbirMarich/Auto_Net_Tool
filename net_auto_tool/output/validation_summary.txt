@@ -1,0 +1,64 @@
+Network Configuration Validation Summary
+==================================================
+
+Devices analyzed: 5
+Errors: 0
+Warnings: 2
+Info: 51
+Recommendations: 0
+
+DETAILED FINDINGS:
+------------------------------
+[INFO] Switch1: Interface FastEthernet0/3 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/4 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/5 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/6 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/7 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/8 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/9 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/10 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/11 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/12 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/13 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/14 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/15 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/16 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/17 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/18 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/19 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/20 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/21 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/22 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/23 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/24 is active but unused. Consider shutting down.
+[WARNING] Switch1: Interface GigabitEthernet0/1 (to R3) is an access port connected to a router. Should be a trunk.
+[INFO] Switch1: Interface GigabitEthernet0/2 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface Vlan20 is active but unused. Consider shutting down.
+[INFO] R1: Interface FastEthernet1/0 is active but unused. Consider shutting down.
+[INFO] R3: Interface FastEthernet0/0 is active but unused. Consider shutting down.
+[INFO] R3: Interface Vlan1 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/3 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/4 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/5 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/6 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/7 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/8 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/9 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/10 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/11 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/12 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/13 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/14 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/15 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/16 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/17 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/18 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/19 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/20 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/21 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/22 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/23 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface FastEthernet0/24 is active but unused. Consider shutting down.
+[WARNING] Switch1: Interface GigabitEthernet0/1 (to R3) is an access port connected to a router. Should be a trunk.
+[INFO] Switch1: Interface GigabitEthernet0/2 is active but unused. Consider shutting down.
+[INFO] Switch1: Interface Vlan20 is active but unused. Consider shutting down.
